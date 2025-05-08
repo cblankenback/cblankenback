@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Christian Blankenback, a recent graduate with a 4-year Bachelor of Technology in Business Systems Development, based in Ottawa, Canada.<br><br>I'm passionate about data, software, and solving real-world problems through tech. I’m currently looking for roles in data analytics, data science, or software development.<br><br>I’m a lifelong learner who enjoys experimenting with new tools and techniques in software engineering, machine learning, and AI. This GitHub showcases the skills I’ve built through projects, co-op placements, and personal exploration.<br><br>Thanks for visiting!
 
 
